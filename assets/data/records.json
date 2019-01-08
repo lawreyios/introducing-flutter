@@ -1,0 +1,65 @@
+[
+  {
+    "name":"John Wesley",
+    "address":"Epworth, Lincolnshire, United Kingdom",
+    "contact" : "12345678",
+    "photo": "https://i1.wp.com/www.pnwumc.org/news/wp-content/uploads/2015/04/john-wesley.jpg?fit=700%2C365&ssl=1",
+    "url": "http://www.john-wesley.com"
+  },
+  {
+    "name":"Bill Gates",
+    "address":"Microsoft",
+    "contact" : "12345678",
+    "photo": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/11/105322791-1531301768595gettyimages-467620670.1910x1000.jpg?v=1545151032",
+    "url": "https://www.microsoft.com"
+  },
+  {
+    "name":"Tim Cook",
+    "address":"Apple",
+    "contact" : "12345678",
+    "photo": "https://9to5mac.com/wp-content/uploads/sites/6/2019/01/Tim-Cook-Huawei.jpg?quality=82&strip=all&w=1500",
+    "url": "https://www.apple.com"
+  },
+  {
+    "name":"Mark Zuckerberg",
+    "address":"Facebook",
+    "contact" : "12345678",
+    "photo": "https://timedotcom.files.wordpress.com/2018/01/mark-zuckerberg-new-years-resolution-facebook.jpg",
+    "url": "https://www.facebook.com"
+  },
+  {
+    "name":"Sundar Pichai",
+    "address":"Google",
+    "contact" : "12345678",
+    "photo": "https://img.etimg.com/thumb/msid-50318943,width-643,imgsize-337990,resizemode-4/four-things-even-google-doesnt-know-about-its-ceo-sundar-pichai.jpg",
+    "url": "https://www.google.com"
+  },
+  {
+    "name":"Jack Ma",
+    "address":"Alibaba",
+    "contact" : "12345678",
+    "photo": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/18/104225995-_95A5004.530x298.jpg?v=1540458420",
+    "url": "https://www.alibaba.com"
+  },
+  {
+    "name":"Jeff Bezos",
+    "address":"Amazon",
+    "contact" : "12345678",
+    "photo": "https://media.newyorker.com/photos/5a666a6a6731fd1ea7517e21/master/w_727,c_limit/Angler-Im-Jeff-Bezos-Im-Your-Dad-Now.jpg",
+    "url": "https://www.amazon.com"
+  },
+  {
+    "name":"Robert H. Swan",
+    "address":"Intel",
+    "contact" : "12345678",
+    "photo": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2016%2F09%2Fbob-swan.jpg&w=1600&q=70",
+    "url": "https://www.intel.com"
+  },
+  {
+    "name":"Ginni Rometty",
+    "address":"IBM",
+    "contact" : "12345678",
+    "photo": "https://moneyinc.com/wp-content/uploads/2018/07/ginni-rometty-700x467.jpg",
+    "url": "https://www.ibm.com"
+  }
+]
